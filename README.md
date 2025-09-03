@@ -1,9 +1,8 @@
 # 📒 Address Book in C
 
 ## 📌 Description
-This project implements an **Address Book** using C language and file handling.  
-It allows users to **add, delete, search, edit, and display** contact details.  
-The program stores records in a file for persistent storage.
+This Address Book project is a simple yet effective contact management system built entirely in C, showcasing practical use of file handling, structured data, and modular programming. Designed with clarity and persistence in mind, it allows users to create, search, edit, delete, and display contact records — all stored in a plain text file for long-term access.
+As an embedded systems engineer, I built this project to reinforce core programming concepts like data structuring, I/O operations, and menu-driven interfaces, while keeping the code clean and beginner-friendly. It reflects my commitment to writing reliable, maintainable code that solves real-world problems — even outside the embedded domain.
 
 ---
 
