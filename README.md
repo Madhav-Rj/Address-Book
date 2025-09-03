@@ -28,7 +28,7 @@ The program stores records in a file for persistent storage.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Rajab-Sunkad/address-book-c.git
+   git clone 
    cd address-book-c
 
 2. **Compile the program**
